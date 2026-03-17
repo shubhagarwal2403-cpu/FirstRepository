@@ -1,1 +1,0 @@
-﻿This is my first Git project And I am very happy about it. This change was made in github.
